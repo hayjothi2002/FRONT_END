@@ -4,8 +4,7 @@ function cosmo() //without parameter
 }
 function beta(name,college) //function withh parameter
 {
-    alert("Name is "+name+"College is"+college)
-
+    alert("Name is"+name+"College is"+college)
 }
 let alpha=()=>
 {
